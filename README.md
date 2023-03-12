@@ -1,6 +1,6 @@
 # Vue-Counting-App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-62ytmb)
+https://vue-counter-af875.firebaseapp.com/
 
 To run the App
 
